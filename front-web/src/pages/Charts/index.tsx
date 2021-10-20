@@ -23,7 +23,7 @@ const initialPieData = {
     series:[]
 }
 
-const BASE_URL = process.env.REACT_APP_BACKEND_URL ?? 'http://localhost:8080'
+const BASE_URL = 'https://sds1-marta.herokuapp.com'
 
 const Charts = () => {
     const [barChartData, setBarChartData] = useState<BarChartData[]>([])
