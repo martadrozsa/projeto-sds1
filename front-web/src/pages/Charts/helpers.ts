@@ -1,5 +1,5 @@
-import { Game } from './types'
-import { RecordItem } from '../Records/types'
+import {Game} from './types'
+import {RecordItem} from '../Records/types'
 
 export const buildBarSeries = (games: Game[], records: RecordItem[]) => {
     const mappedGames = games.map(game => {
