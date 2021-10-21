@@ -9,12 +9,14 @@ Este projeto foi desenvolvido utilizando:
 
 - React
 - Typescript
-- Java (11)
-- Spring Boot
+- Java 11
+- Spring
 - PostgreSQL
-- Apexcharts.js para o desenvolvimento do Dashboard
-- Netlify integrado ao GitHub para fazer o deploy
-
+- Apexcharts.js
+- Netlify/GitHub (deploy)
+- Heroku (cloud)
+- APIs REST
+- Postman
 
 # Aplicação
 
