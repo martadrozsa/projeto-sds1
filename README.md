@@ -22,7 +22,7 @@ Este projeto foi desenvolvido utilizando:
 
 https://sds-1-marta.netlify.app/
 
-
+![Screenshot from 2021-10-21 13-50-19](https://user-images.githubusercontent.com/83780126/138322251-d9aad162-6f44-49c4-8634-4de813de021d.png)
 
 ![Screenshot from 2021-10-21 07-32-12](https://user-images.githubusercontent.com/83780126/138260972-d7b93b78-5203-427c-a418-418052812c95.png)
 
